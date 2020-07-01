@@ -7,3 +7,4 @@ class User
     def initialize
     end
 end
+# no real change. Just for resubmit
